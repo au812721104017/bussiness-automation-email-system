@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.local
+*.sqlite3
+.vscode/
+.idea/
+*.log
+credentials.json
+token.json
+
+# FastAPI
+*.log
+email_automation.db
+token.json
+.env
+.venv/

@@ -1,0 +1,14 @@
+fastapi==0.100.0
+uvicorn==0.52.4
+python-dotenv==1.2.3
+pydantic==1.10.26
+sqlalchemy==2.0.52
+openai==1.39.0
+pytest==7.4.4
+httpx==0.24.1
+anyio==3.7.1
+google-api-python-client==2.100.0
+google-auth==2.15.0
+google-auth-oauthlib==1.0.0
+gunicorn==21.2.0
+psycopg2-binary>=2.9.9
